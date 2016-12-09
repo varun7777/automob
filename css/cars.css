@@ -1,0 +1,116 @@
+.main{
+	background:gainsboro;
+}
+.nav li{
+	display: inline;
+	text-decoration-style: none;
+	margin-left: 60px;
+	padding-top: 20px;
+	font-family: 'Francois One', sans-serif;
+	font-size:14px;
+}
+.header{
+	background: black;
+	position: fixed;
+	height: 80px;
+	margin: auto;
+	margin-bottom: 50px;
+}
+.logo{
+	margin-top: 15px;
+	font-family: cursive;
+}
+
+.header a{
+	text-decoration: none;
+	color: orange;
+}
+.nav{
+	margin-top: 25px;
+}
+.nav a:hover{
+	font-size: 120%;
+}
+
+.ourcars_con{
+	margin-top: 100px;
+	margin-left: 400px;
+}
+.figo_heading{
+	margin-top: 0px;
+}
+.figo1 img{
+	width: 550px;
+	height: 350px;
+}
+.ecos_heading{
+	margin-top: 60px;
+}
+.ecos1 img{
+	margin-left: 12px;
+	width: 550px;
+	height: 350px;
+}
+.amaze_heading{
+	margin-top: 60px;
+}
+.amaze1 img{
+	margin-left: 12px;
+	width: 550px;
+	height: 350px;
+}
+.ciaz_heading{
+	margin-top: 60px;
+}
+.ciaz1 img{
+	margin-left: 12px;
+	width: 550px;
+	height: 350px;
+}
+.series_heading{
+	margin-top: 60px;
+}
+.series1 img{
+	margin-left: 12px;
+	width: 550px;
+	height: 350px;
+}
+footer{
+	background: black;
+}
+footer a{
+	color: lightblue;
+}
+footer h4{
+	text-align: left;
+}
+.cities a {
+	text-decoration: none;
+	text-align: left;
+	}
+
+.cities li{
+	list-style: none;
+	text-align: left;
+}
+.works a{
+	text-decoration: none;
+	
+}
+.works li
+{
+list-style: none;
+}
+.follow a{
+text-decoration: none;
+}
+.follow li{
+list-style: none;
+}
+.contact a{
+text-decoration: none;
+}
+.contact li{
+list-style: none;
+color: lightblue;
+}

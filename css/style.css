@@ -1,0 +1,237 @@
+.main{
+	background:gainsboro;
+}
+.nav li{
+	display: inline;
+	text-decoration-style: none;
+	margin-left: 60px;
+	padding-top: 20px;
+	font-family: 'Francois One', sans-serif;
+	font-size:14px;
+}
+.header{
+	background: black;
+	position: fixed;
+	height: 80px;
+	margin: auto;
+	margin-bottom: 50px;
+}
+.logo{
+	margin-top: 15px;
+	font-family: cursive;
+}
+.header a{
+	text-decoration: none;
+	color: orange;
+}
+.nav{
+	margin-top: 25px;
+}
+.nav a:hover{
+	font-size: 120%;
+}
+.pic_mn {
+	
+	margin-top: 80px;	
+}
+.pic_mn img {
+	
+	height: 450px;}
+
+
+.first{
+	margin-top:4px;
+}
+.second{
+	margin-top:4px;
+	}
+.container_12 button{
+	
+	}
+	.first p{
+		font-family: 'Droid Sans', sans-serif;
+	}
+.sec1{
+	box-shadow: 10px;
+	width: 200px;
+	height: 150px;
+	background:url(../img/hh.png);
+	padding-top: 10px;
+}
+.sec2{
+	box-shadow: 10px;
+	width: 200px;
+	height: 150px;
+	background:url(../img/hh.png);
+	padding-top: 10px;
+}
+.sec3{
+	box-shadow: 10px;
+	width: 200px;
+	height: 150px;
+	background:url(../img/hh.png);
+	padding-top: 10px;
+}
+.sec4{
+	box-shadow: 10px;
+	width: 200px;
+	height: 150px;
+	background:url(../img/hh.png);
+	padding-top: 10px;
+	margin-top: 10px;
+}
+.sec5{
+	box-shadow: 10px;
+	width: 200px;
+	height: 150px;
+	background:url(../img/hh.png);
+	padding-top: 10px;
+	margin-top: 10px;
+}
+.sec6{
+
+	box-shadow: 10px;
+	width: 200px;
+	height: 150px;
+	background:url(../img/hh.png);
+	padding-top: 10px;
+	margin-top: 10px;
+
+}
+.book{
+	margin-bottom: 4px;
+}
+.start{
+	align-content: center;
+}
+#date{
+	align-content: center;
+}
+#time{
+align-content: center;
+}
+.second{
+	font-family: 'Droid Sans', sans-serif;
+}
+.pic_1{
+	margin-top: 10px;
+}
+.pic_tr {
+	margin-top: 10px;
+}
+.pic_tr img {
+height: 400px;
+}
+
+.third{
+	margin-top: 25px;
+}
+.abt1{
+	font-family: 'Droid Sans', sans-serif;
+	
+}
+.abt2 img{
+	margin-top: 20px;
+	width: 350px;
+	height: 200px;
+
+}
+
+input{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+button{
+	height:23px;
+    border: 1px;
+    color: black;
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-color: black;
+    background-color: silver;
+}
+.fourth{
+	margin-top: 10px;
+	background: lightsteelblue;
+	border: 2px grey;
+	font-family: 'Droid Sans', sans-serif;
+}
+.why1{
+	
+	margin-top: 5px;
+	
+	margin-bottom: 10px;
+}
+.why2{
+	margin-top: 5px;
+	
+	
+	margin-bottom: 10px;
+}
+
+footer{
+	background: black;
+}
+footer a{
+	color: lightblue;
+}
+footer h4{
+	text-align: left;
+}
+.cities a {
+	text-decoration: none;
+	text-align: left;
+	}
+
+.cities li{
+	margin-top: 5px;
+	list-style: none;
+	text-align: left;
+}
+.works a{
+	text-decoration: none;
+	
+}
+.side_1{
+	height: 260px;
+	width: 100%;
+}
+.works li
+{
+	margin-top: 5px;
+list-style: none;
+}
+.follow a{
+text-decoration: none;
+}
+.follow li{
+	margin-top: 5px;
+list-style: none;
+}
+.contact a{
+text-decoration: none;
+}
+.contact li{
+	margin-top: 5px;
+list-style: none;
+color: lightblue;
+}
+
+.footHeading1 {
+	font-size: 20px;
+	font-style: bold;
+}
+.footHeading2 {
+	font-size: 20px;
+	font-style: bold;
+}
+.footHeading3 {
+	font-size: 20px;
+	font-style: bold;
+}
+.footHeading4 {
+	font-size: 20px;
+	font-style: bold;
+}
